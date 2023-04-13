@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680967004 source:c:\users\gadget store\documents\c programming\myninthlab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1681028112 source:e:\codes\c codes\myninthlab\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
